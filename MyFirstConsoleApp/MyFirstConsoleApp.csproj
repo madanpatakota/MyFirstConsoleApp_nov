@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>LoopingMecanisam</StartupObject>
+    <StartupObject>Methods_parameters</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,9 @@
   <ItemGroup>
     <Compile Include="10.ConditionalStatements.cs" />
     <Compile Include="11.LoopingMecahnisam.cs" />
+    <Compile Include="12.Methods_Basics.cs" />
+    <Compile Include="13.Method_ReturnTypes.cs" />
+    <Compile Include="14.Methods_Parameters.cs" />
     <Compile Include="2.Datatypes.cs" />
     <Compile Include="1.Program.cs" />
     <Compile Include="6.TypeConversations.cs" />
